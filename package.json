@@ -1,0 +1,14 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kara\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A A hello world demo\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
